@@ -1,0 +1,13 @@
+package htwberlin.webtech;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WebtechCzApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WebtechCzApplication.class, args);
+	}
+
+}
